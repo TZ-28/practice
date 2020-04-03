@@ -11,6 +11,8 @@ each team has their own text.
   
 there will a pause in the code to wait for user feedback in order to continue processing code.
 
+a way to verify the user has entered the correct format for birthday.
+
 
 
 [![Run on Repl.it](https://repl.it/badge/github/TZ-28/practice)](https://repl.it/github/TZ-28/practice)
