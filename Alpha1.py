@@ -1,7 +1,7 @@
 
 name = input('What is your full name friend?')
 
-team = input('Please pick between the folowing colors. \n 		Red, Yellow, Pink, or Blue?')
+team = input('Please pick between the folowing colors. \n Red, Yellow, Pink, or Blue?')
 
 month = input('What is the numeric value of the month you were born?')
 day = input('What Day were you born')
