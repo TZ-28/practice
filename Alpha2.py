@@ -1,4 +1,4 @@
-#HEllo everyone
+#Hello Everyone
 from termcolor import colored
 
 #getting the username
