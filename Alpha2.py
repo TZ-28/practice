@@ -116,14 +116,14 @@ player(name, team, animal)
 print('Welcome ' + name.title() + ' the ' + team.title() + ' ' +  animal.title() + '!')
 
 if day == 1:
-	print("Your were born on the first day of " + monconv.get(int(month)))
+	print("Your were born on the first day of " + monconv.get(int
+		(month)))
 elif day == 2:
 	print("You were born on the Seocnd day of " + monconv.get(int(month)))
 elif day == 3:
 	print("You were born on the third day of " + monconv.get(int(month)))
 else:
-	print("You were born " + (monconv.get(int(month))) + ',' + day + "th " +
-	      year + '.')
+	print("You were born " + (monconv.get(int(month))) + ',' + day + "th " + year + '.')
 
 if age >= 75 and age < 100:
 	print(
